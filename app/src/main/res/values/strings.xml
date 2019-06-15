@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpleMoneyCurrency</string>
+
+    <string-array name="names">
+        <item>Choose currency</item>
+        <item>US Dollar</item>
+        <item>AU Dollar</item>
+        <item>SG Dollar</item>
+    </string-array>
+</resources>
